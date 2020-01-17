@@ -17,6 +17,8 @@ setup(
                  'targets.'),
     long_description=open('README.rst').read(),
     install_requires=[
+        "flask>=1.1.1",
+        "peewee>=3.13.1",
     ],
     python_requires='>=3.6',
 )

@@ -1,3 +1,8 @@
+machines/
+manifests/
+locker/
+server/server.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
